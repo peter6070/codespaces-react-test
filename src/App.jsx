@@ -5,10 +5,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src="../public/img/aris.jpg" className="App-logo" alt="logo" />
-        <p>Test!!
+        <p>ait!!
         </p>
-        <p>Very God Game!!
+        <p>Uh!!
         </p>
+        <p>12번!...</p>
       </header>
     </div>
   );
